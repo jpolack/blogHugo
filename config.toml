@@ -1,9 +1,14 @@
 baseurl = "/"
-languageCode = "en-us"
 Title = "Your site title"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Jonah Polack"
 theme = "hugo_theme_pickles"
+
+DefaultContentLanguage = "de"
+
+[languages]
+  [languages.de]
+    languageName = "Deutsch"
 
 [params]
   sortByWeight="desc"
@@ -11,14 +16,14 @@ theme = "hugo_theme_pickles"
 #   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
-  github = "Your GitHub username"
+  github = "jpolack"
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
   ga_api_key = "Your Google Analytics tracking id"
   author = "Your Name"
   authorwebsite = "example.com"
-  avatar = "https://www.tagesspiegel.de/images/google-logo/12266780/4-format1012.jpg"
+  avatar = "https://avatars1.githubusercontent.com/u/13745423?s=460&v=4"
   contact = "https://jonahpolack.de"
   bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
