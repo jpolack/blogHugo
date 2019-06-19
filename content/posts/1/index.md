@@ -10,4 +10,4 @@ Willkommen auf meinem ersten Blog.
 
 Ich liebe es mit Menschen über das Leben zu reden. Manchmal sagen sie schlaue Sachen. Auf diesem Blog möchte ich diese Themen behandeln, ihnen genauer auf den Grund gehen und erklären was diese Themen für mich bedeuten.
 
-Lasst mich wissen was du denkst!
+Lass mich wissen was du denkst!

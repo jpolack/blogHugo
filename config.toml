@@ -1,5 +1,5 @@
 baseurl = "/"
-Title = "Your site title"
+Title = "Ein Blog"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Jonah Polack"
 theme = "hugo_theme_pickles"
@@ -21,13 +21,12 @@ DefaultContentLanguage = "de"
   disqus = ""
   # Google Analytics API key.
   ga_api_key = "Your Google Analytics tracking id"
-  author = "Your Name"
-  authorwebsite = "example.com"
+  author = "Jonah Polack"
   avatar = "https://avatars1.githubusercontent.com/u/13745423?s=460&v=4"
   contact = "https://jonahpolack.de"
-  bio = "Your short bio"
+  bio = "aus Köln und fragt gerne \"Warum?\""
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Short subtitle"
+  subtitle = "Es wird das was es wird"
   favicon = "/path/to/favicon"
 
 # [[menu.main]]
