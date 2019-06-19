@@ -1,1 +1,14 @@
-/* Add your custom styles adjustments here */
+/* Smaller posted on */
+.c-time{
+    font-size: 1.2rem;
+}
+.c-article__meta{
+    font-size: 1.2rem;
+}
+/* Smaller posted on */
+
+/* Bigger summary */
+.c-article__summary{
+    font-size: 1.5rem;
+}
+/* Bigger summary */
