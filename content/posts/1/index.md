@@ -1,34 +1,12 @@
 ---
-author: "Jonah"
-date: 2019-06-18
-linktitle: ABC
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
-title: TOP1
+title: "1"
+date: 2019-06-19T13:47:18+02:00
+draft: true
 weight: 1
-tags: [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-categories: [
-    "Development",
-    "golang",
-]
+tags: []
 ---
 
-# Dies ist ein Test
+# A first post
 
-## Dies ist ein h2
+ok
 
-blablbala
-
-> Ein Zitat
-
-UND 
-
-
-```
-CODE
-```
