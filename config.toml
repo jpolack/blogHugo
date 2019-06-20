@@ -21,7 +21,7 @@ DefaultContentLanguage = "de"
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  ga_api_key = "UA-134605504-2"
   author = "Jonah Polack"
   avatar = "https://avatars1.githubusercontent.com/u/13745423?s=460&v=4"
   contact = "https://jonahpolack.de"
