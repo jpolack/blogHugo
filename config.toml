@@ -27,7 +27,7 @@ DefaultContentLanguage = "de"
   contact = "https://jonahpolack.de"
   bio = "aus Köln und fragt gerne \"Warum?\""
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Es wird das was es wird"
+  subtitle = "Es wird das, was es wird"
   favicon = "/path/to/favicon"
 
 # [[menu.main]]
