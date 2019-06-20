@@ -1,7 +1,7 @@
 ---
 title: "Perfektion und Menschlichkeit"
 date: 2019-06-20T11:45:46+02:00
-draft: true
+draft: false
 weight: 2
 tags: ["Rationalität", "Perfektion", "Perspektive", "Illusion"]
 ---
