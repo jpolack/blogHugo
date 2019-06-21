@@ -14,7 +14,7 @@ Die Frage nach Rationalität ist auch immer eine Frage der Perspektive. Scheint 
 
 Kurzgesagt objektive Rationalität ist eine Illusion.
 
-Es gibt keine objektive Rationalität, beide Perspektiven, sowohl meine als auch die des Elternteils wahr sind.
+Es gibt keine objektive Rationalität, da beide Perspektiven, sowohl meine als auch die des Elternteils wahr sind.
 
 Wonach strebe ich da also eigentlich? Im Nachhinein fühlt es sich an als wäre ich auf der Suche nach dem Topf voll Gold am Ende des Regenbogens gewesen. Denn wenn ich ehrlich zu mir selbst bin, ist wahre "Perfektion" unerreichbar.
 
