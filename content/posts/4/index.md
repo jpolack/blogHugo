@@ -1,7 +1,7 @@
 ---
 title: "4"
 date: 2019-06-25T17:39:33+02:00
-draft: true
+draft: false
 weight: 4
 tags: ["Achtsamkeit", "Perspektive", "Vergänglichkeit", "Veränderung", "Wandel", "Zwanglosigkeit"]
 ---
