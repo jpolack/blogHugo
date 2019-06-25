@@ -1,9 +1,9 @@
 ---
-title: "Die Achtsamkeit in der Unachtsamkeit"
-date: 2019-06-24T16:50:59+02:00
+title: "4"
+date: 2019-06-25T17:39:33+02:00
 draft: true
 weight: 4
-tags: ["Achtsamkeit", "Perspektive", "Beobachter"]
+tags: ["Achtsamkeit", "Perspektive", "Vergänglichkeit", "Veränderung", "Wandel", "Zwanglosigkeit"]
 ---
 
 Ich freue mich immer wieder wenn ich achtsam genug bin, meinen Alltag bewusst wahrzunehmen. Nun gibt es auch Tage wo ich lange nicht so achtsam bin, wie ich gerne wäre.
@@ -16,4 +16,19 @@ Als ich daraufhin mit einem guten Freund von mir über das Thema gesprochen habe
 
 Klingt erstmal paradox.
 
-Ich stelle jedoch immer wieder für mich fest, dass er recht hat.
+Dennoch finde ich das eine wichtige Perspektive, für den Alltag. Gerade in Zeiten der Unachtsamkeit mache ich mir dadurch bewusst, dass auch der Zustand der Unachtsamkeit vergänglich ist.
+
+
+## Ist Vergänglichkeit gut?
+
+Ich würde sagen weder noch. Denn wie die Unachtsamkeit vergeht, so vergeht auch die Achtsamkeit. Im Endeffekt geht es darum die Vergänglichkeit zu akzeptieren.
+
+Das ist einfacher gesagt als getan. Denn wenn ich Vergänglichkeit vollständig akzeptieren möchte, muss mir klar sein, dass dies ein Leben in ständigem Wandel bedeutet. Keine Beständigkeit, keine Planbarkeit, keine Sicherheit.
+
+Vielleicht meinte der griechische Philosoph Heraklit genau das mit seiner Aussage:
+
+> Nichts ist so beständig wie der Wandel
+
+Wenn ich mich jedoch darauf einlasse die Vergänglichkeit zu akzeptieren kann ich ein Leben in Zwanglosigkeit führen. Denn wenn einerseits nichts bestand hat, **muss** andererseits auch nichts bestand haben. Nichts muss so bleiben wie es ist. Die Aussage _"das haben wir immer so gemacht"_ zählt auf einmal nicht mehr, denn die Beständigkeit mit der hier argumentiert wird ist auf einmal nicht mehr als ein Verschließen der Augen vor dem Wandel.
+
+Alles darf sich ändern. Alles muss sich vielleicht sogar verändern.
