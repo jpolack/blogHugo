@@ -42,7 +42,7 @@ Dieses Mindset des "nicht angekommen seins" ist eins, welches ich nicht annehmen
 ## Wie ich mit Zielen umgehe
 Ich definiere mir keine langfristigen Ziele.
 
-Stattdessen tue ich jeden Tag das was mir Spaß macht und was mir mittelfristig sinnvoll erscheint. Langfristig gesehen vertraue ich darauf, dass alles gut wird wenn ich weiter das tue was mir Spaß macht. Sollte dies nicht der Fall sein ist das auch okay. Wenn das so wäre bedeutet das im Umkehrschluss, dass ich mich täglich ausbeuten muss, um eine höhere Wahrscheinlichkeit zu haben, dass es mir langfristig gut geht. Wenn ich zwischend diesen beiden Optionen wählen kann, wähle ich das Leben in dem ich mich nicht ausbeute.
+Stattdessen tue ich jeden Tag das was mir Spaß macht und was mir mittelfristig sinnvoll erscheint. Langfristig gesehen vertraue ich darauf, dass alles gut wird wenn ich weiter das tue was mir Spaß macht. Sollte dies nicht der Fall sein ist das auch okay. Denn wenn es so wäre bedeutet das im Umkehrschluss, dass ich mich täglich ausbeuten muss, um eine höhere Wahrscheinlichkeit zu haben, dass es mir langfristig gut geht. Wenn ich zwischen diesen beiden Optionen wählen kann, wähle ich das Leben in dem ich mich nicht ausbeute.
 
 Ich lebe kein Leben in Routinen.
 
