@@ -1,4 +1,4 @@
----
+Hello ---
 title: "Wieso Routinen für mich nichts taugen"
 date: 2019-07-07T00:16:34+02:00
 draft: false
@@ -12,7 +12,7 @@ Nicht? Dann wirst du wohl niemals erfolgreich sein. - Wenn man dem Internet glau
 
 Das ist jetzt natürlich sehr plakativ. Aber das ist das was ich höre, wenn ich mir YouTube Videos zu dem Thema anschaue wie man erfolgreich wird.
 
-Ich glaube auch, dass einige der Videos die Wahrheit erzählen. Ich musste ich jedoch feststellen, dass die Heran&shy;gehensweise für mich nicht langfristig funktioniert. Einerseits weil die Herangehensweise mir keinen Spaß macht und andererseits weil ich merke wie ich gegen meine Gefühle arbeiten müsste.
+Ich glaube, dass an ein paar dieser Videos auch etwas wahres dran ist. Ich musste ich jedoch feststellen, dass die Heran&shy;gehensweise für mich nicht langfristig funktioniert. Einerseits weil die Herangehensweise mir keinen Spaß macht und andererseits weil ich merke wie ich gegen meine Gefühle arbeiten müsste.
 
 Eines der Probleme könnte sein, dass keines der Videos, die ich bis jetzt gesehen habe, das Thema von einer Metaposition betrachtet hat.
 
