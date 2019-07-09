@@ -12,7 +12,7 @@ Nicht? Dann wirst du wohl niemals erfolgreich sein. - Wenn man dem Internet glau
 
 Das ist jetzt natürlich sehr plakativ. Aber das ist das was ich höre, wenn ich mir YouTube Videos zu dem Thema anschaue wie man erfolgreich wird.
 
-Ich glaube auch, dass einige der Videos die Wahrheit erzählen. Ich musste ich jedoch feststellen, dass die Heran&shy;gehensweise für mich nicht langfristig funktioniert. Einerseits weil die Herangehensweise mir keinen Spaß macht und andererseits weil ich merke wie ich gegen meine Gefühle arbeiten müsste.
+Ich glaube, dass an ein paar dieser Videos auch etwas wahres dran ist. Ich musste jedoch feststellen, dass die Heran&shy;gehensweise für mich nicht langfristig funktioniert. Einerseits weil die Herangehensweise mir keinen Spaß macht und andererseits weil ich merke wie ich gegen meine Gefühle arbeiten müsste.
 
 Eines der Probleme könnte sein, dass keines der Videos, die ich bis jetzt gesehen habe, das Thema von einer Metaposition betrachtet hat.
 
@@ -42,7 +42,7 @@ Dieses Mindset des "nicht angekommen seins" ist eins, welches ich nicht annehmen
 ## Wie ich mit Zielen umgehe
 Ich definiere mir keine langfristigen Ziele.
 
-Stattdessen tue ich jeden Tag das was mir Spaß macht und was mir mittelfristig sinnvoll erscheint. Langfristig gesehen vertraue ich darauf, dass alles gut wird wenn ich weiter das tue was mir Spaß macht. Sollte dies nicht der Fall sein ist das auch okay. Wenn das so wäre bedeutet das im Umkehrschluss, dass ich mich täglich ausbeuten muss, um eine höhere Wahrscheinlichkeit zu haben, dass es mir langfristig gut geht. Wenn ich zwischend diesen beiden Optionen wählen kann, wähle ich das Leben in dem ich mich nicht ausbeute.
+Stattdessen tue ich jeden Tag das was mir Spaß macht und was mir mittelfristig sinnvoll erscheint. Langfristig gesehen vertraue ich darauf, dass alles gut wird wenn ich weiter das tue was mir Spaß macht. Sollte dies nicht der Fall sein ist das auch okay. Denn wenn es so wäre bedeutet das im Umkehrschluss, dass ich mich täglich ausbeuten muss, um eine höhere Wahrscheinlichkeit zu haben, dass es mir langfristig gut geht. Wenn ich zwischen diesen beiden Optionen wählen kann, wähle ich das Leben in dem ich mich nicht ausbeute.
 
 Ich lebe kein Leben in Routinen.
 
