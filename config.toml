@@ -18,6 +18,7 @@ DefaultContentLanguage = "de"
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   github = "jpolack"
+  rss = true
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
