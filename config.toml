@@ -20,7 +20,7 @@ DefaultContentLanguage = "de"
   github = "jpolack"
   rss = "/index.xml"
   # Disqus shortname
-  disqus = ""
+  disqus = "jonahpolack-blog"
   # Google Analytics API key.
   ga_api_key = "UA-134605504-2"
   author = "Jonah Polack"
