@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "/"
 Title = "Ein Blog"
 languageCode = "de"
 # Copyright notice. This is displayer in the footer.
@@ -18,7 +18,7 @@ DefaultContentLanguage = "de"
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   github = "jpolack"
-  rss = true
+  rss = "/index.xml"
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
