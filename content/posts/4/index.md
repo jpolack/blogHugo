@@ -3,7 +3,7 @@ title: "Die Achtsamkeit in der Unachtsamkeit"
 date: 2019-06-25T17:39:33+02:00
 draft: false
 weight: 4
-tags: ["Achtsamkeit", "Perspektive", "Vergänglichkeit", "Veränderung", "Wandel", "Zwanglosigkeit"]
+tags: []
 ---
 
 Ich freue mich immer wieder wenn ich achtsam genug bin, meinen Alltag bewusst wahrzunehmen. Nun gibt es auch Tage wo ich lange nicht so achtsam bin, wie ich gerne wäre.
