@@ -18,6 +18,7 @@ DefaultContentLanguage = "de"
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   github = "jpolack"
+  xing = "Jonah_Polack"
   rss = "/index.xml"
   # Disqus shortname
   disqus = "jonahpolack-blog"
