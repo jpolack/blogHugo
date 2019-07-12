@@ -1,5 +1,5 @@
 ---
-title: "Wie Unrecht haben Spaß macht"
+title: "Wie unrecht haben Spaß macht"
 date: 2019-07-11T19:54:26+02:00
 draft: false
 weight: 6
