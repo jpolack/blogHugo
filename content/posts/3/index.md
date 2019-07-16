@@ -3,7 +3,7 @@ title: "Maximierung der Lebenserwartung"
 date: 2019-06-22T15:55:04+02:00
 draft: false
 weight: 3
-tags: []
+tags: ["Maximierung", "Lebenserwartung", "Free Solo", "Alex Honnold", "El Capitan", "Verpflichtung"]
 ---
 
 Vor einiger Zeit habe ich den Film "Free Solo" gesehen, in dem Alex Honnold die 1000 Meter hohe Granitwand "El Capitan" ohne Sicherung erklimmt. Wer den Film noch nicht gesehen hat, dem kann ich ihn nur wärmstens empfehlen.

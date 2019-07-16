@@ -3,7 +3,7 @@ title: "Wie unrecht haben Spaß macht"
 date: 2019-07-11T19:54:26+02:00
 draft: false
 weight: 6
-tags: []
+tags: ["Unrecht", "Spaß", "Inflation", "Reaktion", "Korrigieren", "Überzeugung", "Lernen", "achtsam", "Zuhören", "Diskutieren", "Diskussion", "Ego", "Gelassenheit", "Manipulation"]
 ---
 Vor einigen Tagen habe ich einen Bekannten getroffen als ich auf dem Weg zum Steuerberater war. Über das Thema Steuern sind wir zu dem Thema Geldanlage gekommen. Er hat mir erzählt, wieso er es als sinnvoll erachtet sein Geld von der Bank abzuheben und in einem Tresor zu lagern.
 Ich habe das für mich nicht als sinnvolle Methode erkannt, da das Geld so nicht inflationsgeschützt abgelegt ist und ich dadurch nach einem Jahr ~2% weniger Waren für dieses Geld erhalte. 

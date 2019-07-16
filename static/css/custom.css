@@ -12,3 +12,9 @@
     font-size: 1.5rem;
 }
 /* Bigger summary */
+
+/* Hide Tags */
+.c-tag{
+    display: none;
+}
+/* Hide Tags */

@@ -6,6 +6,12 @@ copyright = "&copy; Jonah Polack"
 theme = "hugo_theme_pickles"
 
 DefaultContentLanguage = "de"
+enableRobotsTXT = true
+canonifyURLs = true
+tags = ["a", "b"]
+
+[permalinks]
+  posts = "/post/:title/"
 
 [languages]
   [languages.de]
@@ -14,7 +20,7 @@ DefaultContentLanguage = "de"
 [params]
   sortByWeight="desc"
   custom_css = ["/css/custom.css"]
-#   paginate = 10
+  # paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
   github = "jpolack"

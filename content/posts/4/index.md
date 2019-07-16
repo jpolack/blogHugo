@@ -3,7 +3,7 @@ title: "Die Achtsamkeit in der Unachtsamkeit"
 date: 2019-06-25T17:39:33+02:00
 draft: false
 weight: 4
-tags: []
+tags: ["Achtsamkeit", "Unachtsamkeit", "paradox", "Vergänglichkeit", "Akzeptanz", "Wandel", "Beständigkeit", "Heralkit", "Planbarkeit", "Sicherheit", "Alles kann und nichts muss", "Das haben wir immer so gemacht"]
 ---
 
 Ich freue mich immer wieder wenn ich achtsam genug bin, meinen Alltag bewusst wahrzunehmen. Nun gibt es auch Tage wo ich lange nicht so achtsam bin, wie ich gerne wäre.

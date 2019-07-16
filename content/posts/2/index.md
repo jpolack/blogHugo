@@ -3,7 +3,7 @@ title: "Perfektion und Menschlichkeit"
 date: 2019-06-20T11:45:46+02:00
 draft: false
 weight: 2
-tags: []
+tags: ["Perfektion", "Menschlichkeit", "Maschinen", "Perfektionismus", "Imperfekt", "Rationalität", "Irrationalität", "Perspektive"]
 ---
 
 "Perfektes Handeln" hat sich lange für mich dadurch ausgezeichnet, dass es vollkommen rational ist. Sprich vollkommen begründet und nachvollziehbar. Alles wird mit dem gleichen Maß gemessen und es gibt keine Doppelmoral.
