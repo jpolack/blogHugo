@@ -8,7 +8,6 @@ theme = "hugo_theme_pickles"
 DefaultContentLanguage = "de"
 enableRobotsTXT = true
 canonifyURLs = true
-tags = ["a", "b"]
 
 [permalinks]
   posts = "/post/:title/"
