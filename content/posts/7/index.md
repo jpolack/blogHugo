@@ -3,7 +3,7 @@ title: "Wieso es sich so schwer über Umweltschutz diskutiert"
 date: 2019-07-18T18:10:29+02:00
 draft: false
 weight: 7
-tags: []
+tags: ["Klimaschutz", "Gruppe", "Dynamik", "Fußball", "Religion", "Job", "Leben", "Sinn", "Fleischkonsum", "Gott", "Geld", "Komplex", "Wahrheit", "Ideologie", "Diskussion", "Identität", "Meinung"]
 ---
 
 Ich bin der Überzeugung, dass gerade so viel und so hitzig über Klimaschutz diskutiert wird, weil dort Identitäten aufeinanderprallen.
