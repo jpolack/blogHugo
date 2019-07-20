@@ -14,7 +14,7 @@ Allein durch die Zugehörigkeit der Gruppe erhält mein Leben einen Sinn. Ich bi
 
 Das Problem ist, dass jede Gruppe auch eine eigene Ideologie besitzt. Als Klimaschützer ist es doch selbstvertändlich, dass Fleischkonsum zu verurteilen ist. Als BVB Fan ist es selbstvertändlich, dass man Schalke nicht leiden kann. Als Christ ist es doch selbstvertändlich, dass es Gott gibt und als Unternehmensberater ist es doch selbstvertändlich, dass man gutes Geld verdient.
 
-> Doch die Welt ist komplex. Wenn ich glaube die Wahrheit zu kennen. Die eine und einzige Wahrheit ist es (so gut wie) immer eine Falle.
+> Die Welt ist komplex. Wenn ich glaube die Wahrheit zu kennen. Die eine und einzige Wahrheit ist es (so gut wie) immer eine Falle.
 
 Wenn also eine Gruppe mit ihrer Ideologie glaubt dir die eine und einzige Wahrheit zu erzählen ist es ebenso eine Falle. So einfach, offensichtlich und eindimensional ist die Welt nicht. Die eine und einzige allgemein Gültige Wahrheit gibt es nicht. Auf jede Ansicht gibt es unzählbar viele Perspektiven.
 
