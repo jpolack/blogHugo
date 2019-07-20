@@ -1,8 +1,33 @@
 ---
-title: "7"
+title: "Wieso es sich so schwer über Umweltschutz diskutiert"
 date: 2019-07-18T18:10:29+02:00
-draft: true
+draft: false
 weight: 7
 tags: []
 ---
 
+Ich bin der Überzeugung, dass gerade so viel und so hitzig über Klimaschutz diskutiert wird, weil dort Identitäten aufeinanderprallen.
+
+Ich beobachte, wie beim Thema Klimaschutz eine ähnliche Dynamik entsteht wie beim Fußball, bei dem Thema Religion oder auch beim Job. Ich gehöre dann einer Gruppe an. Oder besser: Ich bin Teil der Gruppe. Ich **bin** die Gruppe.
+
+Allein durch die Zugehörigkeit der Gruppe erhält mein Leben einen Sinn. Ich bin auf einmal nicht mehr irgendwer sondern ich bin Klimaschützer, BVB Fan, Christ oder Unternehmensberater. Ich erhalte eine Identität. Mein Selbstwert steigt. An sich ist das eine gute Sache, denn wir leben in einer Zeit, in der vielen Leuten eine gute Portion Selbstwert gut tun würde.
+
+Das Problem ist, dass jede Gruppe auch eine eigene Ideologie besitzt. Als Klimaschützer ist es doch selbstvertändlich, dass Fleischkonsum zu verurteilen ist. Als BVB Fan ist es selbstvertändlich, dass man Schalke nicht leiden kann. Als Christ ist es doch selbstvertändlich, dass es Gott gibt und als Unternehmensberater ist es doch selbstvertändlich, dass man gutes Geld verdient.
+
+> Doch die Welt ist komplex. Wenn ich glaube die Wahrheit zu kennen. Die eine und einzige Wahrheit ist es (so gut wie) immer eine Falle.
+
+Wenn also eine Gruppe mit ihrer Ideologie glaubt dir die eine und einzige Wahrheit zu erzählen ist es ebenso eine Falle. So einfach, offensichtlich und eindimensional ist die Welt nicht. Die eine und einzige allgemein Gültige Wahrheit gibt es nicht. Auf jede Ansicht gibt es unzählbar viele Perspektiven.
+
+So gibt es Perspektiven in denen es auch unter Klimaschutzaspekten Sinn macht Fleischkonsum nicht zu verurteilen. So gibt es Perspektiven in denen auch ein BVB Fan einen Schalke Fan leiden kann. So gibt es Perspektiven in denen man auch als Christ nicht an Gott glaubt. Und so gibt es Perspektiven in denen Unternehmensberater schlecht verdienen.   
+
+Wenn es nun jedoch zur Diskussion kommt, in welcher die Ideologie der Gruppe, der ich angehöre angegriffen wird, fühle ich mich in meiner Identität bedroht. Die Diskussion rutscht schnell auf die persönliche Ebene, was eine halbwegs objektive Auseinandersetzung mit dem Thema schwieriger macht.
+
+## Wie soll ich mit Identifikation umgehen? 
+
+Es wird schwieriger, doch nicht unmöglich. Möchte ich etwas dazu lernen, ist es wichtig, dass ich **nicht** auf die persönliche Ebene folge. Ich höre mir die Perspektive an. Wichtig ist, dass ich diese Meinung nicht unreflektiert übernehme, sondern selbst die Transferleistung erbringe in der ich aus der Aussage den für mich relevanten Teil von der Ideologie trenne. Dies kann ich durch einige gezielte, vielleicht auch kritische, Fragen tun.
+
+Es geht mir **nicht** darum zu predigen keinen Gruppen anzugehören. Es geht mir auch nicht darum zu predigen keine Identitäten anzunehmen.
+
+Stattdessen arbeite ich daran, dass ich mir der Identifikation bewusst wird. Es soll mir bewusst werden, wenn Andere eine konträre Meinung haben und ich mich dadurch angegriffen fühle. So kann ich mich entscheiden, ob ich die Identität aufrecht erhalten möchte oder mich der objektiven Diskussion hingeben möchte.
+
+So hoffe ich, dass wir alle an einen Punkt kommen an dem wir multiperspektivisch über Themen wie Klimaschutz diskutieren können. 
