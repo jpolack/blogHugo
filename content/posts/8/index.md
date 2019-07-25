@@ -1,9 +1,9 @@
 ---
-title: "Komplexität: Der Sack Reis in China"
-date: 2019-07-23T17:15:04+02:00
-draft: true
+title: "Wieso es keine Wahrheit gibt"
+date: 2019-07-25T16:15:00+02:00
+draft: false
 weight: 8
-tags: []
+tags: ["Komplexität", "Welt", "Wahrheit", "System", "Interaktionszusammenhänge", "Existenz", "Chaos", "Doppelpendel", "Wetten", "Aktien", "Kausalzusammenhänge", "Ursache", "Wirkung", "Unknown unknowns", "Auslöser", "Folgen", "Isolation", "Teilsystem", "Perspektive", "Perspektivwechsel"]
 ---
 
 In meinem letzten Blogeintrag habe ich das Thema Komplexität angeschnitten:
@@ -12,43 +12,42 @@ In meinem letzten Blogeintrag habe ich das Thema Komplexität angeschnitten:
 
 Aber wieso ist das so? Wieso ist die Welt komplex? Und wieso ist es eine Falle wenn wir glauben die Wahrheit zu kennen?
 
-## Systeme
+## Wieso unsere Welt komplex ist
 
 Nach [Wikipedia](https://de.wikipedia.org/wiki/System#Systembegriff_der_Systemtheorie) ist ein System eine Menge an Interaktionszusammenhängen.
 
 Demnach ist unsere Welt ein System. Denn jeder Mensch, jedes Tier, jedes Lebewesen, alles auf dieser Welt tut etwas, was Auswirkungen auf die anderen Parteien hat und wenn es schlicht dessen Existenz ist. Eine Menge an Interaktionszusammenhängen.
 
-### Chaotische Systeme
+Nun gibt es Systeme, die sich unvorhersagbar und chaotisch verhalten. Chaotisch bedeutet in diesem Kontext, dass das System sehr anfällig für kleinste Änderungen ist. Ein klassisches Beispiel für ein chaotisches System ist das [Doppelpendel](https://youtu.be/d0Z8wLLPNE0). 
 
-Unter Chaos wird im Allgemeinen etwas unvorhersagbares verstanden. Auf Systseme bezogen bedeutet dies jedoch, dass ein System sehr anfällig für die kleinsten Änderungen ist. Ein klassisches Beispiel ist das [Doppelpendel](https://youtu.be/d0Z8wLLPNE0).  Andere Beispiele sind der Aktienmarkt oder auch das Wetter.
+Wer sich schonmal mit Wetten oder Aktien beschäftigt hat, wird feststellen, dass auch unsere Welt sich chaotisch verhält. Denn es scheint zwar Kausalzusammenhänge zu geben, doch es gibt so unzählbar viele und das System reagiert so empfindlich, dass für uns Menschen die Wirkungen kaum noch mit den Ursachen zu verbinden sind.
 
-Die Anfälligkeit des Systems für kleinste Änderungen wird besonders klar wenn man sich den Butterfly Effect vor Augen führt. Dieser besagt, dass ein Schmetterling mit dem Schlag seiner Flügel einen Wirbelsturm am anderen am Ende der Welt auslösen kann. 
+Als ob das Chaos noch nicht genug wäre, ist unsere Welt zudem noch komplex. Das bedeutet, dass es nicht nur unzählbar viele Kausalzusammenhänge gibt, sondern noch deutlich mehr, deren wir uns gar nicht alle bewusst sein können. Sogenannte _unknown unknowns_ also unbekannte Auslöser mit unbekannten Folgen.
 
-## Komplexität
-Komplexe Systeme sind wiederum eine Sonderform der chaotischen Systeme. Diese zeichnen sich dadurch aus, dass unglaublich  viele Interaktionszusammenhänge gibt. Es bestehen zwar kausale Zusammenhänge, diese können jedoch auf Grund der gigantischen Anzahl nicht alle erfasst und in der Berechnung berücksichtigt werden. So verhalten sich auch komplexe Systeme chaotisch. 
+## Wieso es keine Wahrheit gibt
 
-Teilsysteme
-Ganzheitliche Betrachtung
+> Wie es gibt keine Wahrheit? Ist es nicht wahr, dass wenn ich zum Beispiel klatsche, es ein Geräusch macht?
 
-## Ergebnisse der Komplexität
+Ja und nein. Es ist wie immer eine Frage der Perspektive.
 
+Wenn ich das System "Klatschen" isoliert betrachte, scheint es als gäbe es folgenden Kausalzusammenhang: Wenn ich klatsche, dann höre ich ein Geräusch.
 
+Doch das ist nur die halbe Wahrheit. Denn die Isolation vereinfacht das System so weit, dass ich einen Kausalzusammenhang herstellen kann.
 
+Das System "Klatschen" enthält eigentlich viel mehr als nur `Klatschen => Geräusch`. Was ist mit Klatschen im Vakuum? Im Vakuum haben die Schallwellen kein Ausbreitungsmedium. Daher höre ich im Vakuum beim Klatschen kein Geräusch. Oder was ist mit Klatschen mit nassen Händen? Der Zusammenhang `Klatschen => Geräusch` fängt an zu bröseln.
 
-Keine Kausalketten - Kein Wenn dann
+Allgemeiner: Wenn ich von dem System "Welt" ein Teilystem isoliert untersuche, dann scheint es mir so als gäbe es Kausalzusammenhänge und damit auch Wahrheit, weil ich viele Kausalzusammenhänge unter den Teppich kehre.
 
-Alles ist ein großes system
+Das bedeutet, dass es zu allem, was wir derzeit als wahr erachten höchstwahrscheinlich Kausalzusammenhänge gibt, die wir nicht mit in die Rechnung einbeziehen. Das ist der Grund wieso es auf eine Situation mehrere Perspektiven gibt. Jede Perspektive bedient sich einer anderen Menge an Kausalzusammenhängen. Welche Perspektive ist nun die einzige objektive Wahrheit?
 
-ich bin an allem schuld
+Derzeit würde ich behaupten: Es gibt sie nicht, oder wenn doch, dann können wir Menschen sie derzeit nicht erfassen.
 
-wenn ich an einer strippe ziehe weiß ich nicht wo etwas umfällt
+Das ist auch der Grund wieso ich sage: 
 
-Wenn ich glaube die Wahrheit zu kennen, die eine und einzige Wahrheit ist es (fast) immer eine Falle.
+> Wenn ich glaube die Wahrheit zu kennen, die eine und einzige Wahrheit ist es (fast) immer eine Falle
 
-komplexität in der softwareentwicklung
+Denn wenn ich tatsächlich glaube die Wahrheit gefunden zu haben ist das meist eher ein Mangel an Perspektivwechsel. Denn um die Wahrheit zu finden müsste ich das komplette System "Welt" verstehen und in die Rechnug einbeziehen.
 
-unknown unknowns
+Ich kann natürlich trotzdem handeln, doch dann muss mir klar sein, dass der Effekt, den ich mir verspreche nicht zwangsläufig eintreten wird. Ich weiß eben nicht ob die Kausalzusammenhänge so funktionieren, wie ich mir das in meinem isolierten System ausgemalt habe.
 
-Kann ich Komplexität addieren?
-
-Vergangenheit ändern
+So kann ich mir eben nicht sicher sein, dass es klatscht, wenn ich klatsche oder dass mein Auto anspringt wenn ich es starte, dass mein Schlüssel noch passt wenn ich nach Hause komme oder ich das Klima schütze, wenn ich auf Fleisch verzichte.
