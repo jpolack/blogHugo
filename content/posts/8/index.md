@@ -20,9 +20,15 @@ Demnach ist unsere Welt ein System. Denn jeder Mensch, jedes Tier, jedes Lebewes
 
 ### Chaotische Systeme
 
-Unter Chaos wird im Allgemeinen etwas unvorhersagbares verstanden. Auf Systseme bezogen bedeutet dies jedoch, 
+Unter Chaos wird im Allgemeinen etwas unvorhersagbares verstanden. Auf Systseme bezogen bedeutet dies jedoch, dass ein System sehr anfällig für die kleinsten Änderungen ist. Ein klassisches Beispiel ist das [Doppelpendel](https://youtu.be/d0Z8wLLPNE0).  Andere Beispiele sind der Aktienmarkt oder auch das Wetter.
+
+Die Anfälligkeit des Systems für kleinste Änderungen wird besonders klar wenn man sich den Butterfly Effect vor Augen führt. Dieser besagt, dass ein Schmetterling mit dem Schlag seiner Flügel einen Wirbelsturm am anderen am Ende der Welt auslösen kann. 
 
 ## Komplexität
+Komplexe Systeme sind wiederum eine Sonderform der chaotischen Systeme. Diese zeichnen sich dadurch aus, dass unglaublich  viele Interaktionszusammenhänge gibt. Es bestehen zwar kausale Zusammenhänge, diese können jedoch auf Grund der gigantischen Anzahl nicht alle erfasst und in der Berechnung berücksichtigt werden. So verhalten sich auch komplexe Systeme chaotisch. 
+
+Teilsysteme
+Ganzheitliche Betrachtung
 
 ## Ergebnisse der Komplexität
 
