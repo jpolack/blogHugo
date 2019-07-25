@@ -36,7 +36,7 @@ Doch das ist nur die halbe Wahrheit. Denn die Isolation vereinfacht das System s
 
 Das System "Klatschen" enthält eigentlich viel mehr als nur `Klatschen => Geräusch`. Was ist mit Klatschen im Vakuum? Im Vakuum haben die Schallwellen kein Ausbreitungsmedium. Daher höre ich im Vakuum beim Klatschen kein Geräusch. Oder was ist mit Klatschen mit nassen Händen? Der Zusammenhang `Klatschen => Geräusch` fängt an zu bröseln.
 
-Allgemeiner: Wenn ich von dem System "Welt" ein Teilystem isoliert untersuche, dann scheint es mir so als gäbe es Kausalzusammenhänge und damit auch Wahrheit, weil ich viele Kausalzusammenhänge unter den Teppich kehre.
+Allgemeiner: Wenn ich von dem System "Welt" ein Teilsystem isoliert untersuche, dann scheint es mir so als gäbe es Kausalzusammenhänge und damit auch Wahrheit, weil ich viele Kausalzusammenhänge unter den Teppich kehre.
 
 Das bedeutet, dass es zu allem, was wir derzeit als wahr erachten höchstwahrscheinlich Kausalzusammenhänge gibt, die wir nicht mit in die Rechnung einbeziehen. Das ist der Grund wieso es auf eine Situation mehrere Perspektiven gibt. Jede Perspektive bedient sich einer anderen Menge an Kausalzusammenhängen. Welche Perspektive ist nun die einzige objektive Wahrheit?
 
