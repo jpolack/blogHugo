@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blog.jonahpolack.de/"
 Title = "Ein Blog"
 languageCode = "de"
 # Copyright notice. This is displayer in the footer.
