@@ -1,24 +1,31 @@
 ---
-title: "Schuld"
+title: "Mein Anteil"
 date: 2019-08-05T11:11:45+02:00
 draft: true
 weight: 9
 tags: []
 ---
 
-Habe ich Schuld am Klimawandel?
+Wäre ich vor einigen Jahren gefragt worden, ob ich einen Anteil am Hunger in dieser Welt zu verantworten habe, hätte ich "nein" gesagt. Wahrscheinlich hätte ich dutzende Argumente vorgebracht wieso mein Gewissen rein ist. Vielleicht hätte ich auf der einen Seite erklärt, dass der Hunger nur dadurch zustande kommt, das geldgierige Konzerne sich die armen Länder dieser Welt unter den Nagel reißen und die Einwohner ausbeuten, um mich auf der anderen Seite stark von diesen Konzernen abzugrenzen - "Ich würde alles anders machen".
 
-Aus der Tatsache heraus, dass ich weder Veganer bin noch Vegtarier, nicht außergewöhnlich auf meinen Plastikverbrauch achte und den CO2-Footprint meiner Fernreisen bisher nicht kompensiert habe, glaube ich, dass viele Befragte antworten würden: "Selbstverständlich". So weit so gut.
+Wäre ich letztes Jahr gefragt worden, on ich einen Anteil an der Erforschung der Gravitationswellen und dem daraus resultierendem Nobelpreis zu verantworten hätte, hätte ich wahrscheinlich der Ehrlichkeit halber "nein" gesagt. Ich hätte jedoch betont, dass die Welt so globalisiert ist, dass wir als Menschheit (und damit auch ich) die Gravitationswellen erforscht haben.
 
-Gibt es auf der Welt eine Person, die nicht für die Klimakatastrophe verantwortlich ist?
+Interessant oder? Wie ich mich von unangenehmen Wahrheiten abgrenze, da diese meine Selbstbild gefährden und ich mich angenehmen Wahrheiten öffne, um mein Selbstbild zu stärken. Das ist der Prozess wenn ich etwas in mein Selbstbild aufnehme heißt Identifikation. Disidentifikation ist demnach die Ausgrenzung und Abgrenzung eines Teils meiner Identität. 
 
-Bin ich schuld an den tausenden Autounfällen, die täglich passieren?
 
-Und wenn ich nicht am Straßenverkehr teilnehme?
 
-Bin ich schuld daran, dass jede Sekunde X Menschen an Hunger sterben?
 
-Bin ich schuld daran, dass jede Sekunde X Menschen an Krebs sterben?
+
+Karma
+
+
+
+
+
+
+
+
+
 
 
 
