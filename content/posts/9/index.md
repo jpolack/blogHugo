@@ -1,22 +1,26 @@
 ---
-title: "Mein Anteil"
+title: "Das Karma der Neuzeit"
 date: 2019-08-05T11:11:45+02:00
 draft: true
 weight: 9
 tags: []
 ---
 
-Wäre ich vor einigen Jahren gefragt worden, ob ich einen Anteil am Hunger der Welt zu verantworten habe, hätte ich "nein" gesagt. Wahrscheinlich hätte ich dutzende Argumente vorgebracht wieso mein Gewissen rein ist. Vielleicht hätte ich auf der einen Seite erklärt, dass der Hunger nur dadurch zustande kommt, das geldgierige Konzerne sich die armen Länder dieser Welt unter den Nagel reißen und die Einwohner ausbeuten, um mich auf der anderen Seite stark von diesen Konzernen abzugrenzen - "Ich würde alles anders machen".
+In einigen buddhistischen Glaubensrichtungen aber auch im Hinduismus gibt es das Konzept des Karma. Dieses besagt im Groben und Ganzen, dass Aktionen immer Folgen haben auf irgendeinem Weg wieder zu mir zurück führen. Wenn ich also zum Beispiel Leid in diese Welt bringe, schade ich mir eigentlich nur selbst, denn nach dem Konzept des Karma füge ich mir langfristig das Leid nur selbst zu.
 
-Wäre ich letztes Jahr gefragt worden, on ich einen Anteil an der Erforschung der Gravitationswellen und dem daraus resultierendem Nobelpreis zu verantworten hätte, hätte ich wahrscheinlich der Ehrlichkeit halber "nein" gesagt. Ich hätte jedoch betont, dass die Welt so globalisiert ist, dass wir als Menschheit (und damit auch ich) die Gravitationswellen erforscht haben.
 
-Interessant oder? Wie ich mich von unangenehmen Wahrheiten abgrenze, da diese meine Selbstbild gefährden und ich mich angenehmen Wahrheiten öffne, um mein Selbstbild zu stärken. Der Prozess etwas in mein Selbstbild auzunehmen wird Identifikation genannt. Disidentifikation ist demnach die Ausgrenzung und Abgrenzung eines Teils meiner Identität.
+Nun habe ich im letzten Blogeintrag das Thema der komplexen Systeme behandelt. Diese Systeme zeichneten sich dadurch aus, dass es Ursache-Wirkung Zusammenhänge gibt, davon jedoch so unzählbar viele, dass das System sich chaotisch verhält.
 
-Schaffe ich es die Balance zu halten, sodass ich mein Selbstbild nicht nur auf angenehmen Wahrheiten, sondern auch auf unangenehmen Wahrheiten beruht (also Identifikation und Disidentifikation im Gleichgewicht stehen), ist meine Persönlichkeit ausgeglichen.
 
-> Wieso sollte ich mich mit der Verantwortung für den Hunger der Welt identifizieren, wenn ich diesen doch gar nicht zu verantworten habe?
+Wenn unsere Welt also solch ein komplexes System ist und es unzählbar viele Ursache-Wirkung Zusammenhänge gibt, bedeutet das gleichzeitig, dass ich zwangsläufig an allem meinen Anteil zu verantworten habe. Das gilt für positives wie negatives. Oder konkret: durch mein Verhalten nehme ich tagtäglich Einfluss auf den Hunger in dieser Welt, dafür nehme ich aber auch täglich Einfluss auf die neusten Forschungen und Entwicklungen in dieser Welt.
 
-Kurz gesagt weil jeder an allem seinen Anteil hat.
+
+
+
+
+
+
+
 
 
 
@@ -33,15 +37,21 @@ Balance wegen Karma
 
 
 
+
 Schuldig vs. verantwortlich
+
 
 
 bin ich an ... schuld? Scheinbar nicht
 
+
 Komplexität ... an allem schuld
+
 
 Wir alle sind schuld
 
+
 wenn alle schuld sind, ist niemand schuld
+
 
 Das Prinzip von schuld ist schwach
