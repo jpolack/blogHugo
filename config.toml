@@ -17,7 +17,9 @@ canonifyURLs = true
     languageName = "Deutsch"
 
 [params]
-  sortByWeight="desc"
+  author = "Jonah Polack"
+  description = "Ein Blog von Jonah Polack. Meine Themen sind Mindset, Achtsamkeit, Spiritualität"
+  sortByWeight = "desc"
   custom_css = ["/css/custom.css"]
   # paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
@@ -29,7 +31,6 @@ canonifyURLs = true
   disqus = "jonahpolack-blog"
   # Google Analytics API key.
   ga_api_key = "UA-134605504-2"
-  author = "Jonah Polack"
   avatar = "https://avatars1.githubusercontent.com/u/13745423?s=460&v=4"
   contact = "https://jonahpolack.de"
   bio = "aus Köln und fragt gerne \"Warum?\""
