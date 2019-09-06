@@ -49,7 +49,7 @@ Nach dieser Erkenntnis habe ich für gut 3 Monate auf Sport verzichtet. Wieso so
 
 Die Frage hat mich viel beschäftigt, bis ich dann irgendwann den König der Löwen gesehen habe.
 
-Ich fand es interessant wie Timon und Pumba genau diese Philosophie leben. Sie nennen es _Hakuna Matata_. Auch Zimba lernt diese Philosophie kennen und lebt sie. Allen dreien geht es gut mit dieser Philosophie. Sehr gut sogar. Irgendwann verlässt Zimba jedoch das Paradies, um als König zu seiner Familie zurückzukehren. Zu dem Zeitpunkt habe ich das nicht verstanden. Wieso verlässt er das Paradies, wenn er durch _Hakuna Matata_ doch ein vollkommenes Leben führen kann?
+Ich fand es interessant wie Timon und Pumba genau diese Philosophie leben. Sie nennen es _Hakuna Matata_. Auch Simba lernt diese Philosophie kennen und lebt sie. Allen dreien geht es gut mit dieser Philosophie. Sehr gut sogar. Irgendwann verlässt Simba jedoch das Paradies, um als König zu seiner Familie zurückzukehren. Zu dem Zeitpunkt habe ich das nicht verstanden. Wieso verlässt er das Paradies, wenn er durch _Hakuna Matata_ doch ein vollkommenes Leben führen kann?
 
 Es war eine ähnliche Frage wie ich mir gestellt hatte:
 
