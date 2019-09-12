@@ -10,7 +10,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 [permalinks]
-  posts = "/post/:title/"
+  "" = "/:title/"
 
 [languages]
   [languages.de]
@@ -18,6 +18,7 @@ canonifyURLs = true
 
 [params]
   author = "Jonah Polack"
+  metaKeywords = ["Jonah", "Polack", "Freelancer", "Developer", "Software", "Blog", "Zen", "Achtsamkeit", "Spiritualität", "Mindset", "Philosophie", "Holismus"]
   metaTitle = "Ein Blog von Jonah Polack - Es wird das was es wird"
   metaDescription = "Meine Themen sind Mindset, Achtsamkeit, Spiritualität und allgemein die großen Fragen des Lebens"
   sortByWeight = "desc"

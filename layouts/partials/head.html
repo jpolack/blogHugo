@@ -13,6 +13,8 @@
   <meta name="twitter:description" content="{{ . | truncate 200 }}">
   {{ end }}
 
+  <meta name="keywords" content="{{range .Params.tags}}{{.}},{{end}}{{range .Site.Params.metaKeywords}}{{.}},{{end}}Blog">
+
   <meta name="author" content="{{ .Site.Params.author }}"/>
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:url" content="{{ .Permalink }}" />

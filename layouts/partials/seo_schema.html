@@ -21,6 +21,9 @@
     "dateModified" : "{{ .Date.Format "2006-01-02 15:04:05" }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
-    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog", "Jonah Polack", "Freelancer", "Developer", "Software", "Mindset", "Achtsamkeit", "Spiritualität" ]
+    "keywords" : [
+        {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}
+        {{ if .Site.Params.metaKeywords }}{{ range .Site.Params.metaKeywords }}"{{ . }}",{{ end }}{{ end }}"Blog"
+    ]
 }
 </script>
